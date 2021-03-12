@@ -1,5 +1,4 @@
 import './App.css';
-import News from './Component/News/News';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend} from 'recharts';
 
 function App() {
